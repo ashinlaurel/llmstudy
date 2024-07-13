@@ -1,5 +1,5 @@
 import google.generativeai as genai
-from google.colab import userdata
+# from google.colab import userdata
 import google.generativeai as genai
 import typing_extensions as typing
 import json
@@ -122,7 +122,7 @@ Return a JSON array under the key "Reviews". Each object in the array should con
 
   combined_df = pd.DataFrame()
 
-  genai.configure(api_key='API KEY')
+  genai.configure(api_key='AIzaSyAboVn4nABtXIBDljroWSV4yf2XNFZdQhA')
 
   model = genai.GenerativeModel(model_name='models/'+current_model)
   gen_config = genai.GenerationConfig(response_mime_type="application/json",

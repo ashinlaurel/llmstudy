@@ -1,6 +1,4 @@
 import google.generativeai as genai
-from google.colab import userdata
-import google.generativeai as genai
 import typing_extensions as typing
 import json
 import dataclasses
