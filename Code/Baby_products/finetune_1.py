@@ -146,6 +146,8 @@ Return a JSON array under the key "Reviews". Each object in the array should con
 
   combined_df = pd.DataFrame()
 
+  genai.configure(api_key='API KEY')
+
   model = genai.GenerativeModel(model_name='models/'+current_model)
   gen_config = genai.GenerationConfig(response_mime_type="application/json",
                                             response_schema = ReviewsResponse)
