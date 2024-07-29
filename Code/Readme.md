@@ -1,5 +1,6 @@
 # Code Readme
 
+## Gemini
 Inside each category folder: 
 zero_shot.py : Runs zero shot prompt for the particular category product
 The corresponding helpfulness ratings given by LLM will be present inside 
