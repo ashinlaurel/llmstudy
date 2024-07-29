@@ -1,0 +1,48 @@
+Dataset/Appliances_B0BX9GK3PB/gpt-4o/finetune_with_own/2024-06-29 03:12:36.830243.csv
+Dataset/Appliances_B0BX9GK3PB/human_mean.xlsx
+Root Mean Square Error (RMSE): 0.6884927176246836
+Mean Absolute Error (MAE): 0.515
+Human mean:  2.328333333333333
+Human st. dev:  0.7472245313687002
+LLM mean:  2.52
+LLM st. dev:  1.0270707725659884
+Dataset/Appliances_B0BX9GK3PB/gpt-4o/finetune_with_own/2024-06-29 03:09:59.167125.csv
+Dataset/Appliances_B0BX9GK3PB/human_mean.xlsx
+Root Mean Square Error (RMSE): 0.7576425425107952
+Mean Absolute Error (MAE): 0.5683333333333334
+Human mean:  2.328333333333333
+Human st. dev:  0.7472245313687002
+LLM mean:  2.52
+LLM st. dev:  1.0368099509417623
+Dataset/Appliances_B0BX9GK3PB/gpt-4o/finetune_with_own/2024-06-29 03:02:01.309945.csv
+Dataset/Appliances_B0BX9GK3PB/human_mean.xlsx
+Root Mean Square Error (RMSE): 0.7642134663968061
+Mean Absolute Error (MAE): 0.5933333333333334
+Human mean:  2.328333333333333
+Human st. dev:  0.7472245313687002
+LLM mean:  2.63
+LLM st. dev:  1.0671429003883435
+Dataset/Appliances_B0BX9GK3PB/gpt-4o/finetune_with_own/2024-06-29 02:58:51.193803.csv
+Dataset/Appliances_B0BX9GK3PB/human_mean.xlsx
+Root Mean Square Error (RMSE): 0.7543356164349011
+Mean Absolute Error (MAE): 0.58
+Human mean:  2.328333333333333
+Human st. dev:  0.7472245313687002
+LLM mean:  2.7
+LLM st. dev:  1.0418383443118189
+Dataset/Appliances_B0BX9GK3PB/gpt-4o/finetune_with_own/2024-06-29 02:54:45.105282.csv
+Dataset/Appliances_B0BX9GK3PB/human_mean.xlsx
+Root Mean Square Error (RMSE): 0.657030356139569
+Mean Absolute Error (MAE): 0.5143333333333334
+Human mean:  2.328333333333333
+Human st. dev:  0.7472245313687002
+LLM mean:  2.62
+LLM st. dev:  0.9851153543146774
+Dataset/Appliances_B0BX9GK3PB/gpt-4o/finetune_with_own/2024-06-29 02:52:15.076201.csv
+Dataset/Appliances_B0BX9GK3PB/human_mean.xlsx
+Root Mean Square Error (RMSE): 0.7181148159513832
+Mean Absolute Error (MAE): 0.55
+Human mean:  2.328333333333333
+Human st. dev:  0.7472245313687002
+LLM mean:  2.565
+LLM st. dev:  1.0397984922679073

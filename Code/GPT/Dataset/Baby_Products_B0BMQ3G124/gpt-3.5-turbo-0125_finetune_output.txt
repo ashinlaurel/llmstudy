@@ -1,0 +1,8 @@
+Dataset/Baby_Products_B0BMQ3G124/gpt-3.5-turbo-0125/finetune_with_own/2024-06-29 01:08:57.343715.csv
+Dataset/Baby_Products_B0BMQ3G124/human_mean.xlsx
+Root Mean Square Error (RMSE): 1.532537837125799
+Mean Absolute Error (MAE): 1.3185000000000002
+Human mean:  2.7931666666666666
+Human st. dev:  0.7325128461627219
+LLM mean:  2.68
+LLM st. dev:  1.2984722371902175

@@ -1,0 +1,40 @@
+Dataset/Baby_Products_B0BMQ3G124/gpt-3.5-turbo-0125/meta/2024-06-26 00:28:47.891755.csv
+Dataset/Baby_Products_B0BMQ3G124/human_mean.xlsx
+Root Mean Square Error (RMSE): 1.522718694382591
+Mean Absolute Error (MAE): 1.3001666666666667
+Human mean:  2.7931666666666666
+Human st. dev:  0.7325128461627219
+LLM mean:  2.755
+LLM st. dev:  1.3580117745805806
+Dataset/Baby_Products_B0BMQ3G124/gpt-3.5-turbo-0125/meta/2024-06-26 00:26:12.694896.csv
+Dataset/Baby_Products_B0BMQ3G124/human_mean.xlsx
+Root Mean Square Error (RMSE): 1.4686747616662974
+Mean Absolute Error (MAE): 1.2668333333333335
+Human mean:  2.7931666666666666
+Human st. dev:  0.7325128461627219
+LLM mean:  2.805
+LLM st. dev:  1.2747942981173719
+Dataset/Baby_Products_B0BMQ3G124/gpt-3.5-turbo-0125/meta/2024-06-26 00:22:10.982164.csv
+Dataset/Baby_Products_B0BMQ3G124/human_mean.xlsx
+Root Mean Square Error (RMSE): 1.469128615502703
+Mean Absolute Error (MAE): 1.2631666666666665
+Human mean:  2.7931666666666666
+Human st. dev:  0.7325128461627219
+LLM mean:  2.735
+LLM st. dev:  1.301246020562657
+Dataset/Baby_Products_B0BMQ3G124/gpt-3.5-turbo-0125/meta/2024-06-26 00:18:55.246039.csv
+Dataset/Baby_Products_B0BMQ3G124/human_mean.xlsx
+Root Mean Square Error (RMSE): 1.4850383459321477
+Mean Absolute Error (MAE): 1.2851666666666666
+Human mean:  2.7931666666666666
+Human st. dev:  0.7325128461627219
+LLM mean:  2.8
+LLM st. dev:  1.279918339103659
+Dataset/Baby_Products_B0BMQ3G124/gpt-3.5-turbo-0125/meta/2024-06-26 00:15:02.114544.csv
+Dataset/Baby_Products_B0BMQ3G124/human_mean.xlsx
+Root Mean Square Error (RMSE): 1.5095271518665117
+Mean Absolute Error (MAE): 1.2818333333333334
+Human mean:  2.7931666666666666
+Human st. dev:  0.7325128461627219
+LLM mean:  2.8
+LLM st. dev:  1.314778770774917

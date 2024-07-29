@@ -1,0 +1,80 @@
+Dataset/Appliances_B0BX9GK3PB/gpt-4o/finetune/2024-06-29 00:36:24.626291.csv
+Dataset/Appliances_B0BX9GK3PB/human_mean.xlsx
+Root Mean Square Error (RMSE): 0.7648674540220824
+Mean Absolute Error (MAE): 0.5876666666666667
+Human mean:  2.328333333333333
+Human st. dev:  0.7472245313687002
+LLM mean:  2.74
+LLM st. dev:  1.0381661450479005
+Dataset/Appliances_B0BX9GK3PB/gpt-4o/finetune/2024-06-29 00:24:31.019990.csv
+Dataset/Appliances_B0BX9GK3PB/human_mean.xlsx
+Root Mean Square Error (RMSE): 0.7920577981154882
+Mean Absolute Error (MAE): 0.63
+Human mean:  2.328333333333333
+Human st. dev:  0.7472245313687002
+LLM mean:  2.77
+LLM st. dev:  0.965276537563122
+Dataset/Appliances_B0BX9GK3PB/gpt-4o/finetune/2024-06-29 00:16:50.542521.csv
+Dataset/Appliances_B0BX9GK3PB/human_mean.xlsx
+Root Mean Square Error (RMSE): 0.81015773498471
+Mean Absolute Error (MAE): 0.6323333333333333
+Human mean:  2.328333333333333
+Human st. dev:  0.7472245313687002
+LLM mean:  2.79
+LLM st. dev:  1.035015111680518
+Dataset/Appliances_B0BX9GK3PB/gpt-4o/finetune/2024-06-29 00:09:28.618800.csv
+Dataset/Appliances_B0BX9GK3PB/human_mean.xlsx
+Root Mean Square Error (RMSE): 0.8558890486807219
+Mean Absolute Error (MAE): 0.6423785594639866
+Human mean:  2.328333333333333
+Human st. dev:  0.7472245313687002
+LLM mean:  2.798994974874372
+LLM st. dev:  0.9897448885541491
+Dataset/Appliances_B0BX9GK3PB/gpt-4o/finetune/2024-06-29 00:03:37.871920.csv
+Dataset/Appliances_B0BX9GK3PB/human_mean.xlsx
+Root Mean Square Error (RMSE): 0.8066528924443828
+Mean Absolute Error (MAE): 0.6333333333333334
+Human mean:  2.328333333333333
+Human st. dev:  0.7472245313687002
+LLM mean:  2.78
+LLM st. dev:  1.0377788418652192
+Dataset/Appliances_B0BX9GK3PB/gpt-4o/finetune/2024-06-29 00:00:29.566354.csv
+Dataset/Appliances_B0BX9GK3PB/human_mean.xlsx
+Root Mean Square Error (RMSE): 0.8406478982837516
+Mean Absolute Error (MAE): 0.6376666666666667
+Human mean:  2.328333333333333
+Human st. dev:  0.7472245313687002
+LLM mean:  2.805
+LLM st. dev:  1.0109824069367768
+Dataset/Appliances_B0BX9GK3PB/gpt-4o/finetune/2024-06-23 02:22:56.296918.csv
+Dataset/Appliances_B0BX9GK3PB/human_mean.xlsx
+Root Mean Square Error (RMSE): 0.7884725035718676
+Mean Absolute Error (MAE): 0.6193333333333334
+Human mean:  2.328333333333333
+Human st. dev:  0.7472245313687002
+LLM mean:  2.795
+LLM st. dev:  0.9939389180751107
+Dataset/Appliances_B0BX9GK3PB/gpt-4o/finetune/2024-06-23 00:11:44.167767.csv
+Dataset/Appliances_B0BX9GK3PB/human_mean.xlsx
+Root Mean Square Error (RMSE): 0.8115965062079117
+Mean Absolute Error (MAE): 0.6246666666666667
+Human mean:  2.328333333333333
+Human st. dev:  0.7472245313687002
+LLM mean:  2.745
+LLM st. dev:  1.041826285927866
+Dataset/Appliances_B0BX9GK3PB/gpt-4o/finetune/2024-06-22 23:21:12.971302.csv
+Dataset/Appliances_B0BX9GK3PB/human_mean.xlsx
+Root Mean Square Error (RMSE): 0.7487916191363849
+Mean Absolute Error (MAE): 0.5816666666666667
+Human mean:  2.328333333333333
+Human st. dev:  0.7472245313687002
+LLM mean:  2.72
+LLM st. dev:  1.0377788418652192
+Dataset/Appliances_B0BX9GK3PB/gpt-4o/finetune/2024-06-22 20:43:03.360553.csv
+Dataset/Appliances_B0BX9GK3PB/human_mean.xlsx
+Root Mean Square Error (RMSE): 0.8532421826317673
+Mean Absolute Error (MAE): 0.6823333333333333
+Human mean:  2.328333333333333
+Human st. dev:  0.7472245313687002
+LLM mean:  2.77
+LLM st. dev:  1.0500538392514134

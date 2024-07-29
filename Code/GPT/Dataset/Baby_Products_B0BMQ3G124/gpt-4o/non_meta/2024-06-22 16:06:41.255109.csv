@@ -1,0 +1,201 @@
+helpfulness,review_id,reason
+3,2415252,"Specific details about the issue, well-written but somewhat emotional and biased."
+4,1117804,"Very detailed, well-balanced, includes pros and cons, some comparative insights."
+2,3525171,"Too short, missing detailed comparative insights."
+3,3524683,Specific but lacks neutrality and sufficient comparative insights.
+4,3524286,"Well-balanced, detailed, includes comparative insights."
+3,2748945,"Moderately detailed, lacks comparative insights and a balanced perspective."
+2,261042,"Lacks detail and comparative insights, biased."
+3,2402541,Detailed but lacks comparative insights and readability could be improved.
+1,1537937,"Very vague, lacks detail and comparative insights."
+4,2665303,"Specific, includes comparative insights, lacks minor constructive sentiment."
+3,2309008,"Moderate detail, lacks comprehensive comparative insights but credible."
+2,3526023,"Somewhat detailed, very biased, lacks constructive sentiment."
+1,3524493,"Too short, lacks detail, biased."
+3,3525274,Specific but lacks comparative insights and some details.
+2,3524196,Detailed but emotional and lacking neutrality.
+2,3290653,"Lacks balance, very detailed but biased and highly emotional."
+3,383543,"Sufficient detail, lacks comparative insights, moderately biassed."
+2,3525556,Detailed but lacks balance and is somewhat emotional.
+3,3525235,Detailed but lacks comparative insights and sufficient constructive sentiment.
+3,338877,"Detailed, some comparative insights but dismissed, moderately balanced."
+4,559086,"The review is detailed and offers comparisons with other brands, although it's somewhat negative."
+1,288198,The review is vague and lacks detail. The sentiment is also highly emotional.
+1,2835966,The review is very short and lacks any substantial detail.
+2,2418711,The review lacks detail and is biased. It doesn’t provide enough information to be helpful.
+4,3523399,The review offers a balanced perspective with both pros and cons and is of appropriate length.
+2,3523130,The review is somewhat emotional and lacks a balanced perspective.
+3,2214095,The review is positive but lacks balance and specific details.
+4,3525881,"The review is detailed and specific, providing useful comparisons within the context, although it's predominantly negative."
+2,3525800,The review lacks detail and completeness. The sentiment is somewhat emotional.
+3,3522987,"The review provides comparative insights and specific detail, but is quite short."
+2,3523124,The review is somewhat detailed but overly emotional and biased.
+1,374010,"The review is very short, vague, and quite unhelpful."
+3,2182324,The review provides some useful information but is somewhat biased and emotional.
+1,3523618,The review is extremely short and lacks detail.
+3,3523865,The review provides some specific detail but is biased and emotional.
+2,2902997,The review is highly emotional and lacks a balanced perspective.
+4,4961857,The review is detailed with good comparative insights and a balanced perspective.
+4,2170148,"The review is quite detailed, offers a balanced perspective, and provides useful comparative insights."
+1,2337737,The review is extremely vague and lacks specificity.
+4,3526272,The review is detailed and provides useful comparative insights but is somewhat negative.
+4,2484568,"The review is detailed, balanced, and provides comparative insights but could be more concise."
+2,941262,The review is very short and lacks detail; no pros or cons mentioned.
+4,4491900,"The review is detailed, provides some comparative insights, and is balanced but could be a bit more specific."
+2,3522996,"The review is vague, not detailed, and lacks comparative insights."
+1,3525205,"The review is very short, lacks detail, and does not provide any constructive feedback or comparative insights."
+4,3524097,"The review is detailed and specific, provides some comparative insights, but is slightly emotional and less concise."
+5,479793,"The review is very detailed, balanced, provides helpful comparative insights, and is well-written."
+4,2444850,"The review is detailed, provides comparative insights, and is balanced but could be more concise."
+3,399861,"The review is moderately detailed, balanced, and provides some comparative insights but lacks specificity."
+3,11593,"The review is moderately detailed, balanced, and provides some comparative insights but could be more specific."
+2,1005604,"The review is very short and lacks detail, specificity, and comparative insights."
+2,600928,"The review is very short, lacks detail, specificity, and comparative insights."
+3,1895810,"The review provides moderate detail, is somewhat concise, but could benefit from more balance and comparative insights."
+3,3523458,"The review is moderately detailed, balanced, and provides some comparative insights but could be more specific."
+2,676375,"The review lacks detail, is somewhat concise, and does not provide sufficient comparative insights."
+2,3522892,"The review is very brief, somewhat emotional, and lacks comparative insights."
+3,973588,"The review is moderately constructive, provides some detail, but lacks specificity and comparative insights."
+3,3143857,The review provides some detail and balance but lacks specificity and comparative insights.
+3,3523999,"The review provides some detail and comparative insights, but could be more thorough and balanced."
+2,1309436,The review is very brief and lacks specificity and comparative insights.
+2,2703810,The review has some details but lacks depth and specific comparative insights.
+4,3523678,"The review is detailed, specific about the issue and provides a clear comparative insight with another brand."
+1,3323854,"The review is very brief and lacks any specific details, pros, cons, or comparative insights."
+3,3524543,The review is specific about the issue and detailed but lacks a balanced perspective and comparative insights.
+2,3207280,The review is somewhat short and lacks detailed specificity.
+4,3525875,"Detailed and specific, with a clear comparison to other brands. However, could provide a more balanced perspective."
+1,545091,"The review lacks detail and specifics, mostly contains broad statements without sufficient information."
+2,3524421,Specific issue mentioned but lacks depth and comparative insights.
+5,432083,"Extremely detailed and specific, provides excellent comparative insights and is well-written."
+2,3525214,"Provides a specific problem but lacks depth, balance, and comparative insights."
+4,3523613,"Review is specific, detailed, and includes comparisons to other brands."
+4,3475339,"Specific and detailed, but could be more balanced with cons or comparative insights."
+4,589388,"Review is detailed, provides comparative insights, but lacks a balanced perspective."
+5,3524387,"Extremely detailed, specific, with excellent comparative insights and a balanced perspective."
+2,649706,"Lacks detail and specific insights, mostly a broad statement."
+2,4643685,Some specific issues mentioned but lacks depth and comparative insights.
+3,5828605,"Moderately detailed, provides some comparative insights but lacks a balanced perspective."
+3,3525052,Specific and detailed but very biased and lacks comparative insights.
+4,1572861,"Detailed, well-written with balanced perspectives and good comparative insights."
+2,3523529,Mentions specific issue but lacks depth and sufficient comparative insights.
+3,3144581,The review provides some specific details and a balanced perspective but lacks in length and comparative insights.
+3,3524924,The review is concise and provides useful insights but lacks comparative details and credibility indicators.
+4,112643,"The review is detailed, credible, and balances well between pros and cons but can be more concise."
+2,1853186,"The review lacks detail and specificity, focusing more on delivery issues rather than product quality."
+4,2319273,"The review provides good detail, balanced insights, and comparative information but can be more detailed."
+4,1002906,Well-written and provides useful detail but lacks comparative insights.
+3,3525617,Provides some detailed information but is quite biased and lacks balanced perspective.
+3,3476693,"The review has some specific details and is balanced, but is quite short and lacks credibility."
+3,2545683,The review is concise and positive but lacks specificity and comparative insights.
+4,3524321,"The review is detailed, balanced, and credible with some comparative insights."
+3,3228205,The review has a few comparative insights but is too brief and somewhat biased.
+2,3526790,"The review is somewhat detailed but lacks specificity, credibility, and is biased."
+2,2169186,"The review lacks detail, is biased, and provides no comparative insights."
+2,3524504,The review is too biased and lacks sufficient detail and balance.
+4,3525328,"The review is detailed, specific, balanced, and well-written but lacks comparative insights."
+5,3525051,"Highly detailed, balanced, credible, well-written with excellent comparative insights."
+4,1442520,The review is detailed and balanced with some comparative insights but can be more concise.
+3,3525942,The review provides some specific details and is balanced but lacks comparative insights.
+2,1533423,"The review lacks detail, balance, and comparative insights."
+4,1222901,"Well-written, detailed, and balanced with some comparative insights."
+4,291819,The review is detailed with specific context about the issue faced but lacks comparative insights.
+2,3524429,"The review is too short, highly emotional, and does not provide comparative insights or detailed specifics."
+3,475610,The review contains some detail and specific issues but is biased and lacks a balanced perspective.
+2,3080,"The review is very vague and lacks detail, comparative insights, and a balanced perspective."
+4,3084222,"The review is well-detailed, specific, and highly constructive but could include more comparative insights."
+4,2987853,"The review provides good detail, is balanced, and readable but lacks detailed comparative insights."
+2,1415179,The review is somewhat biased and lacks detailed specifics or comparative insights.
+2,3523891,"The review is emotional, lacks balance, and doesn't provide specific comparative insights."
+3,3524938,The review provides some detail and specific issues but is somewhat biased and lengthy without being thorough.
+1,6996,"The review is extremely vague, offering no specific details or comparative insights, and is biased."
+2,3525547,"The review is very short, offers little detail, and lacks balanced perspective or comparative insights."
+4,5545828,The review is detailed and includes specific issues but is somewhat emotional and lacks comparative insights.
+4,3523747,"The review is highly detailed and specific, offering a balanced perspective but could be more concise."
+3,3525648,The review provides some detail and specific issues but lacks a balanced perspective and comparative insights.
+5,1911203,"The review is highly detailed, balanced, includes pros and cons, and provides comparative insights."
+3,3524816,The review provides some comparative insights and specifics but lacks thoroughness and balance.
+4,2568147,The review is detailed with balanced pros and cons but could be more concise and include better comparative insights.
+4,227829,"The review is detailed, specific, and balanced but could include more comprehensive comparative insights."
+3,3523936,The review is somewhat detailed and balanced but lacks comprehensive comparative insights and thorough specifics.
+3,3523060,"The review provides specific issues but is somewhat biased, lacks balance, and does not include comparative insights."
+2,2902483,Lacks detail and comparative insights; mainly focuses on price without discussing performance thoroughly.
+3,1182779,Provides good sentiment and balance but lacks specific details and comparative insights.
+4,18801,"Detailed and specific with useful comparative insights between brands, but could be more balanced and neutral."
+4,3525643,"Balanced perspective with pros and cons, detailed information and comparative insights, but readability could be improved."
+1,3524840,Too short and lacks detail to be useful.
+2,3525084,"Lacks balance, detail, and comparative insights. Also doesn't provide enough information."
+4,3158490,"Highly detailed with specific insights, but readability and constructive sentiment could be improved."
+3,3523042,"Balanced, constructive, and detailed but lacks comparative insights and could be more specific."
+2,3525613,"Lacks detail, specificity, and balance. Very brief and not very useful."
+3,3523038,Detailed and constructive but somewhat biased. Lacks balance.
+2,1079652,"Brief and not detailed, lacks credibility and comparative insights."
+3,3524891,Provides some detail and balance but could be more specific and detailed. Readability and constructiveness are okay.
+1,2184786,Too short to be useful.
+3,2196459,Provides both pros and cons but could be more detailed and balanced. Constructive sentiment is there.
+1,5861175,Too short and lacks any useful detail or comparative insights.
+2,3523548,Lacks balance and detail. Readability is good but lacks specific useful insights.
+1,3525258,"Incomplete review. Lacks detail, balance, and comparative insights."
+1,492772,Too short to be useful.
+2,3524185,Provides some detail but is biased and lacks constructive sentiment.
+1,3700641,"Very brief and biased, lacks useful detail and comparative insights."
+3,1510396,"The review provides some specifics and comparisons, but it could be more detailed and better balanced."
+1,2165661,"Lacks detail, very short, and does not provide a balanced perspective."
+2,750662,"The review has a positive sentiment and some specifics, but it is somewhat biased and lacks comparative insights."
+2,900952,The review is quite general and lacks detail. It is also biased towards the positive side.
+3,3526229,"The review is specific about the issues, but it lacks balance and constructive sentiment."
+4,750100,"Good detail and balance, with comparative insights. Readability is good."
+1,4696435,"The review is very short and lacks detail, balance, and comparative insights."
+4,1955597,"Detailed and balanced, providing a specific perspective and comparative insights. It could be slightly more concise."
+2,4029533,"While the review is specific, it is overly negative, emotional, and lacks balance."
+3,2906103,"Provides some specifics and comparisons, but could be more balanced and constructive."
+3,28894,Detailed and specific but lacks balance and is overly negative.
+2,3525775,The review lacks detail and balance and is quite short.
+3,1544484,Provides specific insights and comparisons but is somewhat repetitive and could be more concise.
+2,2843121,"The review is overly negative, lacks balance, and is quite emotional."
+1,3523952,"Lacks detail, balance, and comparative insights."
+3,1115874,"Provides a specific perspective with some balance, but could be more detailed and concise."
+2,2955430,"The review is very short and lacks detail, balance, and comparative insights."
+2,2079422,Provides specific details but lacks balance and comparative insights. The sentiment is overly negative.
+3,3526271,Provides some details and is quite balanced but lacks comparative insights and conciseness.
+3,3188231,Provides specific details but lacks comparative insights and could be more balanced.
+5,742562,"The review is detailed, includes both pros and cons, is balanced, and provides specific incidents. It is well-written and constructive."
+1,3524328,The review is too short and lacks detail. It is biased and does not provide enough information to be useful.
+1,3523567,The review is very vague and lacks detail. It is overly concise and doesn't provide useful comparative insights.
+2,3524517,"The review is emotional and biased, lacking specific details and constructive insights."
+1,3523538,"The review is too short and lacks specificity, detail, and constructive sentiment."
+4,3522939,"The review is fairly detailed and provides comparative insights. However, it could be better balanced and more concise."
+1,3526376,The review is too short and lacks detail. It's also somewhat emotional and does not provide constructive insights.
+4,1376669,"The review is detailed and balanced, providing both pros and cons. It's well-written but could include comparative insights."
+1,3878508,The review is too short and lacks specificity and detail. It provides minimal useful information.
+3,3526491,The review provides some useful insights but lacks detail and balance. It could be more thorough and constructive.
+3,3319390,The review provides some detail and is moderately constructive but could be more balanced and thorough.
+2,567508,"The review is too vague and lacks detail, balance, and comparative insights."
+2,323702,The review provides some detail but is rather short and biased. It lacks constructive and comparative insights.
+3,3158561,The review provides a moderate level of detail and is somewhat constructive but could be more balanced and thorough.
+4,3526269,"The review is detailed and balanced, providing specific incidents and a constructive tone. It could include more comparative insights."
+4,1425090,"The review is detailed and balanced, providing specific incidents and constructive insights. It could be better balanced with comparative insights."
+2,77210,The review provides some useful insights but lacks detail and balance. It is too concise.
+2,3432768,The review provides some comparative insights but lacks detail and thoroughness.
+2,3107730,"The review is emotional and biased, lacking specific details and constructive insights."
+2,3525700,The review is somewhat emotional and biased. It lacks constructive detail and comparative insights.
+3,1710086,"The review is somewhat detailed and mentions both positives and negatives, but lacks comprehensive comparative insights and is relatively brief."
+4,3526765,"The review is detailed and covers both pros and cons, though it could use more specific and comparative insights."
+5,3526619,"Extremely detailed and specific with balanced pros and cons, very well-written and provides excellent comparative insights."
+2,1487042,"The review is brief and lacks specificity or comparative insights, although it mentions both a pro and a con."
+4,832508,"Very detailed, covers a range of experiences, and is well-written, though it is somewhat biased and repetitive."
+4,151860,"Reasonably detailed and balanced with pros and cons covered, but lacks depth in comparative insights."
+3,1024312,"Provides experiences over time and a clear opinion, but lacks detailed and comparative analysis."
+3,3525788,"Detailed with specific negative points, well-written, but lacks balance and comparative insights."
+2,2028270,Brief and highly negative without much detail or comparative context.
+2,3524824,"Very brief and lacks specific details, very negative without much context."
+3,3524668,"Provides a specific issue, readable but lacks detail and depth in comparative insights."
+3,302190,"Brief but positive and balanced, lacks detail and comparative insights."
+2,2752051,Very brief and lacks any detailed information or comparative insights.
+4,1369161,"Balanced, well-written, and provides specific insights, though could use more comparative details."
+1,3331916,Extremely brief and lacks any useful detail.
+2,3526712,"Very brief, lacks specific details and comparative information."
+4,802939,"Well-written and detailed with pros and cons, provides some comparative insights but could be more balanced."
+4,2626626,"Balanced and well-written with specific detail, could use more depth in comparative insights."
+3,3468786,Balanced with specific details but relatively brief and lacks comparative insights.
+4,5665,"Well-written, balanced, and provides some comparative insights, though it could be more detailed."

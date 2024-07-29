@@ -1,0 +1,48 @@
+Dataset/Baby_Products_B0BMQ3G124/gpt-3.5-turbo-0125/finetune_with_own/2024-06-29 01:27:13.599052.csv
+Dataset/Baby_Products_B0BMQ3G124/human_mean.xlsx
+Root Mean Square Error (RMSE): 1.5270905525068106
+Mean Absolute Error (MAE): 1.290166666666667
+Human mean:  2.7931666666666666
+Human st. dev:  0.7325128461627219
+LLM mean:  2.67
+LLM st. dev:  1.3151991270216814
+Dataset/Baby_Products_B0BMQ3G124/gpt-3.5-turbo-0125/finetune_with_own/2024-06-29 01:24:21.144440.csv
+Dataset/Baby_Products_B0BMQ3G124/human_mean.xlsx
+Root Mean Square Error (RMSE): 1.5770242723419177
+Mean Absolute Error (MAE): 1.3501666666666667
+Human mean:  2.7931666666666666
+Human st. dev:  0.7325128461627219
+LLM mean:  2.75
+LLM st. dev:  1.336574786835372
+Dataset/Baby_Products_B0BMQ3G124/gpt-3.5-turbo-0125/finetune_with_own/2024-06-29 01:21:03.035687.csv
+Dataset/Baby_Products_B0BMQ3G124/human_mean.xlsx
+Root Mean Square Error (RMSE): 1.5386159003756879
+Mean Absolute Error (MAE): 1.3018333333333334
+Human mean:  2.7931666666666666
+Human st. dev:  0.7325128461627219
+LLM mean:  2.755
+LLM st. dev:  1.3242898922037292
+Dataset/Baby_Products_B0BMQ3G124/gpt-3.5-turbo-0125/finetune_with_own/2024-06-29 01:18:20.580781.csv
+Dataset/Baby_Products_B0BMQ3G124/human_mean.xlsx
+Root Mean Square Error (RMSE): 1.5422944667676866
+Mean Absolute Error (MAE): 1.3118333333333334
+Human mean:  2.7931666666666666
+Human st. dev:  0.7325128461627219
+LLM mean:  2.795
+LLM st. dev:  1.3235307583663134
+Dataset/Baby_Products_B0BMQ3G124/gpt-3.5-turbo-0125/finetune_with_own/2024-06-29 01:14:41.150644.csv
+Dataset/Baby_Products_B0BMQ3G124/human_mean.xlsx
+Root Mean Square Error (RMSE): 1.47490300999384
+Mean Absolute Error (MAE): 1.2501666666666666
+Human mean:  2.7931666666666666
+Human st. dev:  0.7325128461627219
+LLM mean:  2.705
+LLM st. dev:  1.2472985884880257
+Dataset/Baby_Products_B0BMQ3G124/gpt-3.5-turbo-0125/finetune_with_own/2024-06-29 01:08:57.343715.csv
+Dataset/Baby_Products_B0BMQ3G124/human_mean.xlsx
+Root Mean Square Error (RMSE): 1.532537837125799
+Mean Absolute Error (MAE): 1.3185000000000002
+Human mean:  2.7931666666666666
+Human st. dev:  0.7325128461627219
+LLM mean:  2.68
+LLM st. dev:  1.2984722371902175

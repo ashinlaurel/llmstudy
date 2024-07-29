@@ -2,6 +2,9 @@
 
 ## Gemini
 Inside each category folder:
+
+human_mean.xlsx: Average of human helpfulness ratings for each product.
+
 ### For zero shot
 zero_shot.py : Runs zero shot prompt for the particular category product
 The corresponding helpfulness ratings given by LLM will be present inside 
