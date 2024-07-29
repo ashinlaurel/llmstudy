@@ -10,6 +10,7 @@ import time
 import numpy as np
 from sklearn.metrics import mean_squared_error, mean_absolute_error
 
+
 def main():
     output_file_path = './zero_shot_output.txt'
 
