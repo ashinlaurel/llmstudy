@@ -15,7 +15,7 @@ def dataframe_chunker(df, batch_size):
 
 def main():
     client = OpenAI(
-        api_key='sk-proj-hnhjJ6Cfg39JAgE9i4IBT3BlbkFJKx0FsnOcQFeYl3dcTJn5',
+        api_key='API_KEY',
     )
 
     dtype_spec = {

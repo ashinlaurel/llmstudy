@@ -15,7 +15,7 @@ def dataframe_chunker(df, batch_size):
 
 def main():
     client = OpenAI(
-        api_key='sk-proj-hnhjJ6Cfg39JAgE9i4IBT3BlbkFJKx0FsnOcQFeYl3dcTJn5',
+        api_key='API_KEY',
     )
 
     prompt = """As a data scientist analyzing the usefulness of reviews on e-commerce platforms, your goal is to determine how helpful each review is in assisting a customer in deciding whether to purchase a product. Use the following refined criteria and scoring rubric, drawing from literature on review helpfulness and user perception.
